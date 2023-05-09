@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Fitness" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+        <item name="android:colorPrimary">@color/purple_500</item>
+
+        <item name="android:colorButtonNormal">@color/purple_500</item>
+
+    </style>
+
+</resources>
